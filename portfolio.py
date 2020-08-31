@@ -5,8 +5,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-#%%
-# Date information
 
 today = date.today()
 
@@ -16,7 +14,7 @@ start = '2020-06-26'
 
 
 #WATCHLIST
-mylist = ['GS\n', 'MSFT\n', 'RY\n','SBUX\n', 'DELL\n']
+mylist = ['GS\n', 'MSFT\n', 'RY\n','AAPL\n', 'DELL\n']
 myhold = [3, 3, 6, 8, 8]
 mycur = ['CAD', 'CAD', 'CAD', 'USD', 'CAD']
 myportfolio = {'Ticker': mylist, 'Hold': myhold, 'Currency': mycur}

@@ -14,7 +14,7 @@ start = '2020-06-26'
 
 
 #WATCHLIST
-mylist = ['PEP\n', 'MSFT\n', 'ENB\n' 'AC\n','AAPL\n', 'TSLA\n']
+mylist = ['PEP\n', 'MSFT\n', 'GE\n' 'AC\n','AAPL\n', 'TSLA\n']
 myhold = [3, 3, 5, 6, 8, 8]
 mycur = ['USD', 'USD', 'CAD', 'CAD', 'USD', 'USD']
 myportfolio = {'Ticker': mylist, 'Hold': myhold, 'Currency': mycur}
